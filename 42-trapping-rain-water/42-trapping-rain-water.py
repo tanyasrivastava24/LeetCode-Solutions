@@ -18,6 +18,7 @@ class Solution:
                     ans+=(rmax-height[r])
                 r-=1
         return ans
+    
                 
         
         
